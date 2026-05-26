@@ -1,0 +1,68 @@
+const siswa = [
+  {
+    id: 1,
+    nama: "khalid bakwan",
+    kelas: "XII-A",
+    jurusan: "IPA",
+    hobi: "Coding",
+    motto: "Terus belajar!",
+  },
+  {
+    id: 2,
+    nama: "Siti Rahmawati",
+    kelas: "XII-A",
+    jurusan: "IPA",
+    hobi: "Membaca",
+    motto: "Buku adalah jendela dunia",
+  },
+  {
+    id: 3,
+    nama: "Ahmad Hidayat",
+    kelas: "XII-B",
+    jurusan: "IPS",
+    hobi: "Fotografi",
+    motto: "Abadikan setiap momen",
+  },
+  {
+    id: 4,
+    nama: "Dewi Lestari",
+    kelas: "XII-B",
+    jurusan: "IPS",
+    hobi: "Menulis",
+    motto: "Menulis adalah cara terbaik untuk berpikir",
+  },
+  {
+    id: 5,
+    nama: "Rizky Pratama",
+    kelas: "XII-C",
+    jurusan: "Bahasa",
+    hobi: "Bermain gitar",
+    motto: "Musik adalah bahasa jiwa",
+  },
+  {
+    id: 6,
+    nama: "Fitri Handayani",
+    kelas: "XII-C",
+    jurusan: "Bahasa",
+    hobi: "Traveling",
+    motto: "Jelajahi dunia tanpa batas",
+  },
+  {
+    id: 7,
+    nama: "Agus Wijaya",
+    kelas: "XII-A",
+    jurusan: "IPA",
+    hobi: "Olahraga",
+    motto: "Tubuh sehat, pikiran sehat",
+  },
+  {
+    id: 8,
+    nama: "Rina Marlina",
+    kelas: "XII-B",
+    jurusan: "IPS",
+    hobi: "Melukis",
+    motto: "Kreativitas tidak mengenal batas",
+  },
+];
+
+export default siswa;

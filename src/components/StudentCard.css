@@ -1,0 +1,78 @@
+.student-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.student-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.card-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0.75rem;
+}
+
+.card-nama {
+  margin: 0 0 0.25rem;
+  font-size: 1.1rem;
+  color: #1a1a2e;
+}
+
+.card-kelas {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.card-jurusan {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.75rem;
+}
+
+.badge-ipa {
+  background: #e0f7fa;
+  color: #00838f;
+}
+
+.badge-ips {
+  background: #fce4ec;
+  color: #c62828;
+}
+
+.badge-bahasa {
+  background: #fff3e0;
+  color: #e65100;
+}
+
+.card-hobi {
+  margin: 0 0 0.35rem;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.card-motto {
+  margin: 0;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #888;
+}
